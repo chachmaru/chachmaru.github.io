@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on chachamaru</title>
+    <link>https://chachmaru.github.io/announcements/</link>
+    <description>Recent content in Announcements on chachamaru</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 06 Sep 2016 10:16:00 +0900</lastBuildDate>
+    <atom:link href="https://chachmaru.github.io/announcements/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ポートフォリオサイトを作りました。</title>
+      <link>https://chachmaru.github.io/announcements/hello-world/</link>
+      <pubDate>Tue, 06 Sep 2016 10:16:00 +0900</pubDate>
+      
+      <guid>https://chachmaru.github.io/announcements/hello-world/</guid>
+      <description>&lt;p&gt;はじめまして、ちゃちゃまるです。
+&lt;br&gt;
+&lt;br&gt;
+このウェブサイトは、僕のポートフォリオ兼活動日記です。デザイナーと名乗りながら今までの作品を見せることができるウェブサイトがなかったので、重い腰を上げて作ってみました。&lt;br /&gt;
+&lt;br&gt;
+このウェブサイトには4つのカテゴリー：「Announcements」「Works」「Posts」「Experiments」があります。&lt;br /&gt;
+「Annoucements」には、ウェブサイトのお知らせなどを、&lt;br /&gt;
+「Works」には僕の作ったデザインやグラフィック・その他作品を、&lt;br /&gt;
+「Posts」には僕が書いた記事や受けたインタビューなどを、&lt;br /&gt;
+「Experiments」には試してみたライブラリやコードテクニックを、&lt;br /&gt;
+のせていきたいと思います。
+&lt;br&gt;
+&lt;br&gt;
+これからよろしくお願いいたします。
+&lt;br&gt;
+&lt;br&gt;
+ちゃちゃまる&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
